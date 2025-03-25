@@ -1,0 +1,35 @@
+Project1.exe: 000042D4: 14:30:04 []:>--------------------------------------------------------------<
+Project1.exe: 000042D4: 14:30:04 [TUniServerModule]:Server First Init.
+Project1.exe: 000042D4: 14:30:04 [TUniServerModule]:Start Path = D:\Fontes\UniDinosStyle\Sample\StandAlone\
+Project1.exe: 000042D4: 14:30:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000042D4: 14:30:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000063C0: 14:30:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: EiMHppmUvR110A42574 ) : Addr: $006DA7AD
+Project1.exe: 000042D4: 14:33:35 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 000042D4: 14:33:35 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 000042D4: 14:33:36 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 000042D4: 14:33:36 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 000042D4: 14:33:36 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 000042D4: 14:33:36 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 000042D4: 14:33:36 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 000042D4: 14:33:36 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 000042D4: 14:33:36 [TUniWebSocketStack]:Terminating...
+Project1.exe: 000042D4: 14:33:36 [TUniGUIMessageQ]:Terminated.
+Project1.exe: 000042D4: 14:33:36 [TUniWebSocketStack]:Terminated.
+Project1.exe: 000042D4: 14:33:36 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 000042D4: 14:33:36 []:<-------------------------------------------------------------->
+Project1.exe: 000047B4: 14:35:33 []:>--------------------------------------------------------------<
+Project1.exe: 000047B4: 14:35:33 [TUniServerModule]:Server First Init.
+Project1.exe: 000047B4: 14:35:33 [TUniServerModule]:Start Path = D:\Fontes\UniDinosStyle\Sample\StandAlone\
+Project1.exe: 000047B4: 14:35:33 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000047B4: 14:35:33 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Project1.exe: 000047B4: 14:35:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000047B4: 14:35:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00006A68: 14:36:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: zvo4umjnWy110A4262D ) : Addr: $00A3A7AD
+Project1.exe: 00004050: 14:37:58 []:>--------------------------------------------------------------<
+Project1.exe: 00004050: 14:37:58 [TUniServerModule]:Server First Init.
+Project1.exe: 00004050: 14:37:58 [TUniServerModule]:Start Path = D:\Fontes\UniDinosStyle\Sample\StandAlone\
+Project1.exe: 00004050: 14:37:58 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00004050: 14:37:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Project1.exe: 00004050: 14:37:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00004050: 14:37:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00006AE8: 14:38:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wEpgWlyC1p110A427E8 ) : Addr: $003EA7AD
