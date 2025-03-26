@@ -179,11 +179,12 @@ object MainForm: TMainForm
         Width = 65
         Height = 43
         Hint = ''
-        Caption = ''
+        Caption = '-'
         ParentColor = False
         Images = UniImageList1
         ImageIndex = 0
         TabOrder = 13
+        OnClick = UniSpeedButton1Click
       end
       object UniLabel5: TUniLabel
         Left = 496
@@ -478,5 +479,14 @@ object MainForm: TMainForm
       F00F000000000000F1BF000000000000F3BF000000000000F1FF000000000000
       F1FF000000000000FFFF00000000000000000000000000000000000000000000
       000000000000}
+  end
+  object UniTimer1: TUniTimer
+    ClientEvent.Strings = (
+      'function(sender)'
+      '{'
+      ' '
+      '}')
+    Left = 923
+    Top = 201
   end
 end

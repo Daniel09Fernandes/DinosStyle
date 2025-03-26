@@ -61,6 +61,8 @@ begin
   if ATypeButtom <> TpNone then
     Self.Color := clBtnface;
 
+  Self.Height := 33;
+
   LBaseCls := IfThen((ATypeButtom <> TpNone),TypeButtomToString(ATypeButtom), '');
   Self.ClientEvents.UniEvents.add( TBridge.BridgeElement('btn', LBaseCls));
 end;

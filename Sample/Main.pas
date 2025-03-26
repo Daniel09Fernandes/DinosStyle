@@ -7,7 +7,7 @@ uses
   Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
   uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniButton, uniBasicGrid, uniDBGrid, uniCheckBox, uniEdit, uniGUIBaseClasses, uniPanel, uniMemo, FireDAC.Stan.Intf,
   FireDAC.Stan.Option, FireDAC.Stan.Param, FireDAC.Stan.Error, FireDAC.DatS, FireDAC.Phys.Intf, FireDAC.DApt.Intf, FireDAC.Stan.StorageBin, Data.DB, FireDAC.Comp.DataSet,
-  FireDAC.Comp.Client, uniLabel, uniBitBtn, uniSpeedButton, uniImageList;
+  FireDAC.Comp.Client, uniLabel, uniBitBtn, uniSpeedButton, uniImageList, uniTimer;
 
 type
   TMainForm = class(TUniForm)
@@ -39,10 +39,12 @@ type
     UniSpeedButton1: TUniSpeedButton;
     UniLabel5: TUniLabel;
     UniPanel5: TUniPanel;
+    UniTimer1: TUniTimer;
     procedure UniFormShow(Sender: TObject);
     procedure UniButton1Click(Sender: TObject);
     procedure UniButton2Click(Sender: TObject);
     procedure UniBitBtn1Click(Sender: TObject);
+    procedure UniSpeedButton1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -75,26 +77,32 @@ end;
 
 procedure TMainForm.UniBitBtn1Click(Sender: TObject);
 begin
-   TSweetAlert.jsSweetFireBasic('Apenas um alerta!!');
+  TSweetAlert.jsSweetFireWarning('Aviso', 'Esse aviso, está avisando!');
 end;
 
 procedure TMainForm.UniButton1Click(Sender: TObject);
 begin
-  FDMemTable1.Append;
-  FDMemTable1Nome.AsString := UniEdit1.Text;
-  FDMemTable1Email.AsString := UniEdit2.Text;
-  FDMemTable1Adress.AsString := UniEdit3.Text;
-  FDMemTable1Obs.AsString := UniMemo1.Text;
-  FDMemTable1SendEmail.AsString := ifthen(UniCheckBox1.Checked, 'S', 'N');
-  FDMemTable1.Post;
-
-  TSweetAlert.jsSweetFireBasic('Cadastrado com sucesso!');
+  TSweetAlert.jsSweetFireQuestion(
+        'Confirmação',
+        'Deseja realmente executar esta ação?',
+        'Ação foi executada com sucesso!',
+        self,
+        procedure
+        begin
+          FDMemTable1.Append;
+          FDMemTable1Nome.AsString := UniEdit1.Text;
+          FDMemTable1Email.AsString := UniEdit2.Text;
+          FDMemTable1Adress.AsString := UniEdit3.Text;
+          FDMemTable1Obs.AsString := UniMemo1.Text;
+          FDMemTable1SendEmail.AsString := ifthen(UniCheckBox1.Checked, 'S', 'N');
+          FDMemTable1.Post;
+        end);
 end;
 
 procedure TMainForm.UniButton2Click(Sender: TObject);
 begin
   FDMemTable1.Cancel;
-  TSweetAlert.jsSweetFireBasic('Cadastro cancelado!');
+  TSweetAlert.jsSweetFireError('Cancelamento', 'Cadastro cancelado!');
 end;
 
 procedure TMainForm.UniFormShow(Sender: TObject);
@@ -113,6 +121,11 @@ begin
 //  UniDBGrid1.ConvertToBootstrap;
 //  UniCheckBox1.ConvertToBootstrap;
 //  UniLabel1.ConvertToBootstrap;
+end;
+
+procedure TMainForm.UniSpeedButton1Click(Sender: TObject);
+begin
+  TSweetAlert.jsSweetFireSuccess('Sucesso', 'Isso é um sucesso');
 end;
 
 initialization
