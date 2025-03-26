@@ -7,7 +7,7 @@ uses
   Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
   uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniButton, uniBasicGrid, uniDBGrid, uniCheckBox, uniEdit, uniGUIBaseClasses, uniPanel, uniMemo, FireDAC.Stan.Intf,
   FireDAC.Stan.Option, FireDAC.Stan.Param, FireDAC.Stan.Error, FireDAC.DatS, FireDAC.Phys.Intf, FireDAC.DApt.Intf, FireDAC.Stan.StorageBin, Data.DB, FireDAC.Comp.DataSet,
-  FireDAC.Comp.Client, uniLabel, uniBitBtn, uniSpeedButton, uniImageList, uniTimer;
+  FireDAC.Comp.Client, uniLabel, uniBitBtn, uniSpeedButton, uniImageList, uniTimer, Vcl.Imaging.pngimage, uniImage;
 
 type
   TMainForm = class(TUniForm)
@@ -40,6 +40,8 @@ type
     UniLabel5: TUniLabel;
     UniPanel5: TUniPanel;
     UniTimer1: TUniTimer;
+    UniPanel6: TUniPanel;
+    UniImage1: TUniImage;
     procedure UniFormShow(Sender: TObject);
     procedure UniButton1Click(Sender: TObject);
     procedure UniButton2Click(Sender: TObject);
@@ -61,8 +63,9 @@ uses
   uniGUIVars, MainModule, uniGUIApplication,
   StrUtils,
   Bootstrap.Converter.Buttons.Dinos,
+  Bootstrap.Converter.Images.Dinos,
 //  Bootstrap.Converter.Edits.Dinos,
-//  Bootstrap.Converter.Panels.Dinos,
+  Bootstrap.Converter.Panels.Dinos,
 //  Bootstrap.Converter.Memos.Dinos,
 //  Bootstrap.Converter.Grids.Dinos,
 //  Bootstrap.Converter.Checkbox.Dinos,
@@ -111,6 +114,8 @@ begin
   UniButton2.ConvertToBootstrap(TpButtom.tpDanger);
   UniBitBtn1.ConvertToBootstrap(TpButtom.tpInfo);
   UniSpeedButton1.ConvertToBootstrap(TpButtom.tpSecondaryOutline);
+  UniImage1.ConvertToBootstrap(TTypeImageBorder.Circle);
+  UniPanel6.ConvertToBootstrap(True);
 
 //  UniButton1.ConvertToBootstrap(TpButtom.tpSuccess);
 //  UniEdit1.ConvertToBootstrap;

@@ -42,7 +42,8 @@ uses
   Bootstrap.Converter.Memos.Dinos,
   Bootstrap.Converter.Grids.Dinos,
   Bootstrap.Converter.Checkbox.Dinos,
-  Bootstrap.Converter.Labels.Dinos;
+  Bootstrap.Converter.Labels.Dinos,
+  Bootstrap.Converter.Images.Dinos;
 type
   TMap = class
     class procedure MapComponenet(AOwner: TComponent);
@@ -52,7 +53,7 @@ implementation
 
 { TMap }
 uses
-  uniGUIForm, uniLabel, uniPanel, uniMemo, uniDbGrid, uniEdit, UniCheckbox, uniButton, uniBitBtn, uniSpeedButton;
+  uniGUIForm, uniLabel, uniPanel, uniMemo, uniDbGrid, uniEdit, UniCheckbox, uniButton, uniBitBtn, uniSpeedButton, uniImage;
 
 class procedure TMap.MapComponenet(AOwner: TComponent);
 var i: integer;
@@ -89,7 +90,10 @@ begin
        TUniBitBtn(lForm.Components[i]).ConvertToBootstrap(TpButtom.tpSuccess)        
     else   
     if lForm.Components[i] is TUniSpeedButton then
-       TUniBitBtn(lForm.Components[i]).ConvertToBootstrap(TpButtom.tpSuccess);    
+       TUniBitBtn(lForm.Components[i]).ConvertToBootstrap(TpButtom.tpSuccess)
+    else
+    if lForm.Components[i] is TuniImage then
+       TuniImage(lForm.Components[i]).ConvertToBootstrap;
   end;
 
 end;

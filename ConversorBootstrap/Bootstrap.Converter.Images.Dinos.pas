@@ -1,3 +1,4 @@
+unit Bootstrap.Converter.Images.Dinos;
 {MIT License
 
 Copyright (c) 2025 Daniel Fernandes
@@ -30,18 +31,17 @@ SOFTWARE.}
 { licensed under a MIT - see LICENSE.md}
 
 { ******************************************************* }
-unit Bootstrap.Converter.Panels.Dinos;
-
 interface
 uses
-  uniPanel, System.Classes;
+  uniImage, System.Classes;
 
 type
-  TDinosConverterPanel = class helper for TUniCustomPanel
+  TTypeImageBorder = (Normal, Circle);
+  TDinosConverterImage = class helper for TUniImage
    private
 
    public
-      procedure ConvertToBootstrap(ARounded: Boolean = False);
+      procedure ConvertToBootstrap(ATypeImage: TTypeImageBorder = Normal);
    end;
 implementation
 
@@ -50,22 +50,26 @@ uses
   Bridge.Dinos, uConst.Form.Controls,
   strutils, SysUtils, uniGUITypes;
 
-procedure TDinosConverterPanel.ConvertToBootstrap(ARounded: Boolean = False);
+procedure TDinosConverterImage.ConvertToBootstrap(ATypeImage: TTypeImageBorder = Normal);
 begin
+   case ATypeImage of
+     Normal: ClientEvents.ExtEvents.Values['afterrender'] :=
+    'function afterrender(sender, eOpts) {' +
+    '  var img = sender.getEl().down("img"); ' +
+    '  if(img) { ' +
+    '    img.addCls("' + FormImgRound + '"); ' +
+    '  } ' +
+    '}';
 
-  if not ARounded then
-  begin
-   Self.BorderStyle := ubsDefault;
-   Self.ClientEvents.UniEvents.add( TBridge.BridgeElement( FormPanel, FormPanel ));
-  end
-  else
-    ClientEvents.ExtEvents.Values['afterrender'] :=
-      'function afterrender(sender, eOpts) {' +
-      '  var _div = sender.getEl().down("div"); ' +
-      '  if(_div) { ' +
-      '    _div.addCls("' + FormImgCircle + '"); ' +
-      '  } ' +
-      '}';
+     Circle:
+     ClientEvents.ExtEvents.Values['afterrender'] :=
+    'function afterrender(sender, eOpts) {' +
+    '  var img = sender.getEl().down("img"); ' +
+    '  if(img) { ' +
+    '    img.addCls("' + FormImgCircle + '"); ' +
+    '  } ' +
+    '}';
+   end;
 end;
 
 end.

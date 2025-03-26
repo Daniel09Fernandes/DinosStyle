@@ -46,6 +46,10 @@ interface
     FormPanel = 'DinosPanel';
     FormMemo  = 'DinosMemo';
 
+    //Img
+    FormImgCircle = 'rounded-circle';
+    FormImgRound = 'rounded';
+
 implementation
 
 end.
