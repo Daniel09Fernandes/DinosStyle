@@ -48,10 +48,13 @@ implementation
 
 { TDinosConverterGrid }
 uses uniGUITypes, Bridge.Dinos, uConst.Grids,
-     strutils, SysUtils;
+     strutils, SysUtils, uConst.Form.Controls;
 
 procedure TDinosConverterGrid.ConvertToBootstrap;
 begin
+  if self.Tag = NotApplyBootstrap then
+    Exit;
+
   Self.ClientEvents.UniEvents.add( TBridge.BridgeElement( DinosGrid, DinosGrid ) );
 end;
 

@@ -188,6 +188,7 @@
         <DCCReference Include="..\ConversorBootstrap\uConst.Buttons.pas"/>
         <DCCReference Include="..\ConversorBootstrap\uConst.Form.Controls.pas"/>
         <DCCReference Include="..\ConversorBootstrap\uConst.Grids.pas"/>
+        <DCCReference Include="..\ConversorBootstrap\Bootstrap.Converter.Images.Dinos.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
@@ -216,7 +217,7 @@
                 </Excluded_Packages>
             </Delphi.Personality>
             <Deployment Version="5">
-                <DeployFile LocalName="Sample\Debug\Project1.exe" Configuration="Debug" Class="ProjectOutput">
+                <DeployFile LocalName="StandAlone\Project1.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>Project1.exe</RemoteName>
                         <Overwrite>true</Overwrite>

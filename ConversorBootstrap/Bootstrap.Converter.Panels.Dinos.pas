@@ -39,7 +39,6 @@ uses
 type
   TDinosConverterPanel = class helper for TUniCustomPanel
    private
-
    public
       procedure ConvertToBootstrap(ARounded: Boolean = False);
    end;
@@ -52,6 +51,8 @@ uses
 
 procedure TDinosConverterPanel.ConvertToBootstrap(ARounded: Boolean = False);
 begin
+  if self.Tag = NotApplyBootstrap then
+    Exit;
 
   if not ARounded then
   begin
@@ -67,5 +68,4 @@ begin
       '  } ' +
       '}';
 end;
-
 end.

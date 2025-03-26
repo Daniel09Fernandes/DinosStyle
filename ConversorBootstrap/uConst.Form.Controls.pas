@@ -49,6 +49,7 @@ interface
     //Img
     FormImgCircle = 'rounded-circle';
     FormImgRound = 'rounded';
+    const NotApplyBootstrap = -9;
 
 implementation
 

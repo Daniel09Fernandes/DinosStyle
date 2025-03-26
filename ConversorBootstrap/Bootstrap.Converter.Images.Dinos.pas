@@ -39,9 +39,9 @@ type
   TTypeImageBorder = (Normal, Circle);
   TDinosConverterImage = class helper for TUniImage
    private
-
    public
       procedure ConvertToBootstrap(ATypeImage: TTypeImageBorder = Normal);
+
    end;
 implementation
 
@@ -52,6 +52,9 @@ uses
 
 procedure TDinosConverterImage.ConvertToBootstrap(ATypeImage: TTypeImageBorder = Normal);
 begin
+   if (self.Tag = NotApplyBootstrap) then
+     Exit;
+
    case ATypeImage of
      Normal: ClientEvents.ExtEvents.Values['afterrender'] :=
     'function afterrender(sender, eOpts) {' +

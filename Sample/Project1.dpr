@@ -25,7 +25,8 @@ uses
   js.SweetAlert.Dinos in '..\ConversorBootstrap\js.SweetAlert.Dinos.pas',
   uConst.Buttons in '..\ConversorBootstrap\uConst.Buttons.pas',
   uConst.Form.Controls in '..\ConversorBootstrap\uConst.Form.Controls.pas',
-  uConst.Grids in '..\ConversorBootstrap\uConst.Grids.pas';
+  uConst.Grids in '..\ConversorBootstrap\uConst.Grids.pas',
+  Bootstrap.Converter.Images.Dinos in '..\ConversorBootstrap\Bootstrap.Converter.Images.Dinos.pas';
 
 {$R *.res}
 

@@ -53,6 +53,9 @@ uses
 
 procedure TDinosConverterEdit.ConvertToBootstrap;
 begin
+  if self.Tag = NotApplyBootstrap then
+    Exit;
+
   Self.Color := clWhite;
   Self.BorderStyle := ubsDefault;
 

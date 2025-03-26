@@ -51,6 +51,9 @@ uses uniGUITypes, Bridge.Dinos, uConst.Form.Controls,
 
 procedure TDinosConverterEdit.ConvertToBootstrap;
 begin
+  if self.Tag = NotApplyBootstrap then
+    Exit;
+
   Self.Color := clWhite;
   Self.ClientEvents.UniEvents.add( TBridge.BridgeElement( FormMemo, FormMemo ) );
 end;

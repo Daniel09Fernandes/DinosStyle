@@ -50,7 +50,7 @@ Type
 implementation
 
 uses
-  uniGUITypes, strutils, SysUtils, Vcl.Graphics, Bridge.Dinos;
+  uniGUITypes, strutils, SysUtils, Vcl.Graphics, Bridge.Dinos, uConst.Form.Controls;
 
 { TDinosConverter }
 
@@ -58,6 +58,9 @@ uses
 procedure TDinosConverterButtons.ConvertToBootstrap(ATypeButtom: TypeButtom);
 var LBaseCls:string;
 begin
+  if self.Tag = NotApplyBootstrap then
+    Exit;
+
   if ATypeButtom <> TpNone then
     Self.Color := clBtnface;
 

@@ -43,12 +43,14 @@ uses
   Bootstrap.Converter.Grids.Dinos,
   Bootstrap.Converter.Checkbox.Dinos,
   Bootstrap.Converter.Labels.Dinos,
-  Bootstrap.Converter.Images.Dinos;
+  Bootstrap.Converter.Images.Dinos,
+  uConst.Form.Controls;
 type
+
   TMap = class
     class procedure MapComponenet(AOwner: TComponent);
   end;
-
+  const tagNotApplyBootstrap = NotApplyBootstrap;
 implementation
 
 { TMap }

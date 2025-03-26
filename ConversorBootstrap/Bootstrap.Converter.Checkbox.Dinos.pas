@@ -57,6 +57,9 @@ uses
 
 procedure TDinosConverterCheckbox.ConvertToBootstrap;
 begin
+  if self.Tag = NotApplyBootstrap then
+    Exit;
+
   Self.ClientEvents.UniEvents.add( TBridge.BridgeElement(FormCheckInput, FormCheckInput));
 //  UniSession.AddJS('document.getElementById("' + self.jsID + '").innerHTML = "'
 //    + Checkbox + '"');
