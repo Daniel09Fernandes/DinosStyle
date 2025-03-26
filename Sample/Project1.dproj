@@ -185,7 +185,7 @@
         <DCCReference Include="..\ConversorBootstrap\Bootstrap.Converter.Panels.Dinos.pas"/>
         <DCCReference Include="..\ConversorBootstrap\Bridge.Dinos.pas"/>
         <DCCReference Include="..\ConversorBootstrap\js.SweetAlert.Dinos.pas"/>
-        <DCCReference Include="..\ConversorBootstrap\uConst.Buttoms.pas"/>
+        <DCCReference Include="..\ConversorBootstrap\uConst.Buttons.pas"/>
         <DCCReference Include="..\ConversorBootstrap\uConst.Form.Controls.pas"/>
         <DCCReference Include="..\ConversorBootstrap\uConst.Grids.pas"/>
         <BuildConfiguration Include="Base">

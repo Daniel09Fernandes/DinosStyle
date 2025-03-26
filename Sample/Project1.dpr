@@ -23,7 +23,7 @@ uses
   Bootstrap.Converter.Panels.Dinos in '..\ConversorBootstrap\Bootstrap.Converter.Panels.Dinos.pas',
   Bridge.Dinos in '..\ConversorBootstrap\Bridge.Dinos.pas',
   js.SweetAlert.Dinos in '..\ConversorBootstrap\js.SweetAlert.Dinos.pas',
-  uConst.Buttoms in '..\ConversorBootstrap\uConst.Buttoms.pas',
+  uConst.Buttons in '..\ConversorBootstrap\uConst.Buttons.pas',
   uConst.Form.Controls in '..\ConversorBootstrap\uConst.Form.Controls.pas',
   uConst.Grids in '..\ConversorBootstrap\uConst.Grids.pas';
 
