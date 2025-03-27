@@ -51,10 +51,10 @@
 }
 
 .DinosEdit  .x-form-field:focus {
-    color: #bbbbbb !important;
+    color: #7c7c7c !important;
     background-color: #fcfcfc36 !important;
-    border-color: #ffffffda !important;
-    outline: 0 !important;
+    border-color: #868686da !important;
+    outline: 1 !important;
     box-shadow: 0 0 0 0.2rem rgba(1, 166, 216, 0.582) !important;
 }
 
@@ -69,9 +69,12 @@
 
 .x-form-text-wrap-default {
     /* width: 100% !important; */
-    border: none !important;
+    border: 0.5px solid  !important;
     padding: 0 !important;
     margin: 0 !important;
+    border-radius: 0.25rem !important;
+    color: #aaaaaac9 !important;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out !important;
 }
 
 .x-form-field {

@@ -55,7 +55,8 @@ implementation
 
 { TMap }
 uses
-  uniGUIForm, uniLabel, uniPanel, uniMemo, uniDbGrid, uniEdit, UniCheckbox, uniButton, uniBitBtn, uniSpeedButton, uniImage;
+  uniGUIForm, uniLabel, uniPanel, uniMemo, uniDbGrid, uniEdit, UniCheckbox, uniButton, uniBitBtn, uniSpeedButton, uniImage,
+  uniMenuButton;
 
 class procedure TMap.MapComponenet(AOwner: TComponent);
 var i: integer;
@@ -90,9 +91,12 @@ begin
     else   
     if lForm.Components[i] is TUniBitBtn then
        TUniBitBtn(lForm.Components[i]).ConvertToBootstrap(TpButtom.tpSuccess)        
-    else   
+    else
     if lForm.Components[i] is TUniSpeedButton then
        TUniBitBtn(lForm.Components[i]).ConvertToBootstrap(TpButtom.tpSuccess)
+    else
+    if lForm.Components[i] is TUniMenuButton then
+       TUniMenuButton(lForm.Components[i]).ConvertToBootstrap(TpButtom.tpSuccess)
     else
     if lForm.Components[i] is TuniImage then
        TuniImage(lForm.Components[i]).ConvertToBootstrap;

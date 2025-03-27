@@ -57,7 +57,7 @@ begin
     Exit;
 
   Self.Color := clWhite;
-  Self.BorderStyle := ubsDefault;
+  Self.BorderStyle := ubsNone;
 
   if TUniEdit(self).EmptyText = '' then
   begin

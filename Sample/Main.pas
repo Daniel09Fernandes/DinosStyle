@@ -7,7 +7,7 @@ uses
   Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
   uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniButton, uniBasicGrid, uniDBGrid, uniCheckBox, uniEdit, uniGUIBaseClasses, uniPanel, uniMemo, FireDAC.Stan.Intf,
   FireDAC.Stan.Option, FireDAC.Stan.Param, FireDAC.Stan.Error, FireDAC.DatS, FireDAC.Phys.Intf, FireDAC.DApt.Intf, FireDAC.Stan.StorageBin, Data.DB, FireDAC.Comp.DataSet,
-  FireDAC.Comp.Client, uniLabel, uniBitBtn, uniSpeedButton, uniImageList, uniTimer, Vcl.Imaging.pngimage, uniImage;
+  FireDAC.Comp.Client, uniLabel, uniBitBtn, uniSpeedButton, uniImageList, uniTimer, Vcl.Imaging.pngimage, uniImage, Vcl.Menus, uniMainMenu, uniMenuButton;
 
 type
   TMainForm = class(TUniForm)
@@ -32,21 +32,22 @@ type
     UniBitBtn1: TUniBitBtn;
     UniSpeedButton1: TUniSpeedButton;
     UniLabel5: TUniLabel;
-    UniTimer1: TUniTimer;
-    UniPanel7: TUniPanel;
-    UniImage1: TUniImage;
     UniLabel1: TUniLabel;
     UniEdit1: TUniEdit;
     UniLabel2: TUniLabel;
     UniEdit2: TUniEdit;
     UniLabel3: TUniLabel;
     UniEdit3: TUniEdit;
-    UniLabel6: TUniLabel;
-    UniLabel7: TUniLabel;
-    UniLabel9: TUniLabel;
-    UniPanel5: TUniPanel;
     UniPanel6: TUniPanel;
     UniPanel8: TUniPanel;
+    UniPanel5: TUniPanel;
+    UniMenuButton1: TUniMenuButton;
+    UniPopupMenu1: TUniPopupMenu;
+    Cadastros1: TUniMenuItem;
+    Clientes1: TUniMenuItem;
+    Clientes2: TUniMenuItem;
+    Propdutos1: TUniMenuItem;
+    RaioX1: TUniMenuItem;
     procedure UniFormShow(Sender: TObject);
     procedure UniButton1Click(Sender: TObject);
     procedure UniButton2Click(Sender: TObject);
@@ -115,15 +116,13 @@ end;
 
 procedure TMainForm.UniFormShow(Sender: TObject);
 begin
-  UniPanel7.Tag := TagNotApplyBootstrap;
 
   TMap.MapComponenet(self); //Aqui, vai aplicar para os botoes o tema  tpSuccess
   UniButton2.ConvertToBootstrap(TpButtom.tpDanger);
   UniBitBtn1.ConvertToBootstrap(TpButtom.tpPrimary);
   UniBitBtn1.ConvertToBootstrap(TpButtom.tpInfo);
   UniSpeedButton1.ConvertToBootstrap(TpButtom.tpSecondaryOutline);
-  UniImage1.ConvertToBootstrap(TTypeImageBorder.Circle);
-
+  UniMenuButton1.ConvertToBootstrap(TpButtom.tpInfo);
 //  UniButton1.ConvertToBootstrap(TpButtom.tpSuccess);
 //  UniEdit1.ConvertToBootstrap;
 //  UniEdit2.ConvertToBootstrap;
