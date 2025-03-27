@@ -1,7 +1,9 @@
 # DinosStyle
 DinosStyle - Unigui
+
 ![image](https://github.com/user-attachments/assets/739cf197-ed53-4b1c-a7f9-c9cfedab8867)
 
+---
 
 Como utilizar: 
   - Incluir na raiz do seu projeto, jutno ao exe ou a dll, as pastas css e js que estão dentro da pasta assets.
@@ -16,4 +18,9 @@ Como utilizar:
   UniServerModule.CustomMeta.Add('<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>');
 ```
 
+---
+
 Para utilizar, para olhar o fonte da pasta Sample, pode se basear pela Main.Pas.
+
+Mais detalhes: 
+https://www.youtube.com/watch?v=gzoqG8Dhlp8&feature=youtu.be 
