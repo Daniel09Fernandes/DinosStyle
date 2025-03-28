@@ -17,3 +17,5 @@ Como utilizar:
 ```
 
 Para utilizar, para olhar o fonte da pasta Sample, pode se basear pela Main.Pas.
+
+Video explicando como instalar e usar: https://www.youtube.com/watch?v=gzoqG8Dhlp8 
