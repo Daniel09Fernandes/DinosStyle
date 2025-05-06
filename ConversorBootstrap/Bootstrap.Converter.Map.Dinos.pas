@@ -60,10 +60,9 @@ uses
 
 class procedure TMap.MapComponenet(AOwner: TComponent);
 var i: integer;
-   lForm: TUniForm;
+   lForm: TComponent;
 begin
-  if AOwner is TUniForm then
-    lForm := TUniForm(AOwner);
+  lForm := AOwner;
 
   for I := 0 to lForm.ComponentCount -1 do
   begin
@@ -90,7 +89,7 @@ begin
        TUniButton(lForm.Components[i]).ConvertToBootstrap(TpButtom.tpSuccess)   
     else   
     if lForm.Components[i] is TUniBitBtn then
-       TUniBitBtn(lForm.Components[i]).ConvertToBootstrap(TpButtom.tpSuccess)        
+       TUniBitBtn(lForm.Components[i]).ConvertToBootstrap(TpButtom.tpSuccess)
     else
     if lForm.Components[i] is TUniSpeedButton then
        TUniBitBtn(lForm.Components[i]).ConvertToBootstrap(TpButtom.tpSuccess)
