@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/05/06 13:59:17.000.347,=D:\Fontes\PDV\MainModule.pas</Transaction>
+    <Transaction>2025/05/06 13:59:17.000.071,=D:\Fontes\PDV\ServerModule.pas</Transaction>
+    <Transaction>2025/05/06 13:59:18.000.331,=D:\Fontes\PDV\Main.pas</Transaction>
+    <Transaction>2025/05/06 14:24:17.000.559,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Images.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:24:17.000.662,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Labels.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:24:17.000.432,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Grids.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:24:17.000.803,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Map.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:24:17.000.891,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Memos.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:24:17.000.106,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Buttons.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:24:17.000.210,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Checkbox.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:24:17.000.336,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Edits.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:24:18.000.461,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\uConst.Form.Controls.pas</Transaction>
+    <Transaction>2025/05/06 14:24:18.000.568,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\uConst.Grids.pas</Transaction>
+    <Transaction>2025/05/06 14:24:18.000.334,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\uConst.Buttons.pas</Transaction>
+    <Transaction>2025/05/06 14:24:18.000.241,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\js.SweetAlert.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:24:18.000.003,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Panels.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:24:18.000.103,=D:\Fontes\componenetes\DinosStyle\ConversorBootstrap\Bridge.Dinos.pas</Transaction>
+    <Transaction>2025/05/06 14:50:23.000.249,=D:\Fontes\PDV\Unit1.pas</Transaction>
+    <Transaction>2025/05/06 14:51:18.000.353,D:\Fontes\PDV\uLogin.pas=D:\Fontes\PDV\Unit1.pas</Transaction>
+    <Transaction>2025/05/06 14:51:18.000.353,D:\Fontes\PDV\uLogin.dfm=D:\Fontes\PDV\Unit1.dfm</Transaction>
+    <Transaction>2025/05/06 15:40:37.000.940,=D:\Fontes\PDV\Unit1.pas</Transaction>
+    <Transaction>2025/05/06 15:41:58.000.349,D:\Fontes\PDV\uLogin.pas=</Transaction>
+    <Transaction>2025/05/06 15:42:07.000.848,D:\Fontes\PDV\uLogin.pas=D:\Fontes\PDV\Unit1.pas</Transaction>
+    <Transaction>2025/05/06 15:42:07.000.848,D:\Fontes\PDV\uLogin.dfm=D:\Fontes\PDV\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

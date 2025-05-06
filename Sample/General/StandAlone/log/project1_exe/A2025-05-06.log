@@ -1,0 +1,14 @@
+Project1.exe: 0000398C: 16:29:41 []:>--------------------------------------------------------------<
+Project1.exe: 0000398C: 16:29:41 [TUniServerModule]:Server First Init.
+Project1.exe: 0000398C: 16:29:41 [TUniServerModule]:Start Path = D:\Fontes\componenetes\DinosStyle\Sample\General\StandAlone\
+Project1.exe: 0000398C: 16:29:41 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 0000398C: 16:29:41 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000398C: 16:29:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00004CC4: 16:41:06 []:>--------------------------------------------------------------<
+Project1.exe: 00004CC4: 16:41:06 [TUniServerModule]:Server First Init.
+Project1.exe: 00004CC4: 16:41:06 [TUniServerModule]:Start Path = D:\Fontes\componenetes\DinosStyle\Sample\General\StandAlone\
+Project1.exe: 00004CC4: 16:41:06 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00004CC4: 16:41:06 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Project1.exe: 00004CC4: 16:41:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00004CC4: 16:41:07 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000042CC: 16:41:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: PITD6kpjY9110E45D03 ) : Addr: $00F2A7AD

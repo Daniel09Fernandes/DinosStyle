@@ -1,0 +1,474 @@
+PDV.exe: 00004F74: 14:07:05 []:>--------------------------------------------------------------<
+PDV.exe: 00004F74: 14:07:05 [TUniServerModule]:Server First Init.
+PDV.exe: 00004F74: 14:07:05 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004F74: 14:07:05 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004F74: 14:07:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004F74: 14:07:06 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004D64: 14:07:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Invalid URI: /m ) : Addr: $011B3CC9
+PDV.exe: 00003938: 14:07:12 [HandleFileRequest[127.0.0.1]]:File not found: D:\Fontes\PDV\Win32\Debug\favicon.ico
+PDV.exe: 000008FC: 14:07:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Invalid URI: /m ) : Addr: $011B3CC9
+PDV.exe: 00004C0C: 14:13:42 []:>--------------------------------------------------------------<
+PDV.exe: 00004C0C: 14:13:42 [TUniServerModule]:Server First Init.
+PDV.exe: 00004C0C: 14:13:42 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004C0C: 14:13:42 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004C0C: 14:13:42 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004C0C: 14:13:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004C0C: 14:13:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004058: 14:14:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DDYvmh6OC1110E43639 ) : Addr: $01163CC9
+PDV.exe: 00004A58: 14:15:37 []:>--------------------------------------------------------------<
+PDV.exe: 00004A58: 14:15:37 [TUniServerModule]:Server First Init.
+PDV.exe: 00004A58: 14:15:37 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004A58: 14:15:37 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004A58: 14:15:37 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004A58: 14:15:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004A58: 14:15:38 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000049C8: 14:16:22 []:>--------------------------------------------------------------<
+PDV.exe: 000049C8: 14:16:22 [TUniServerModule]:Server First Init.
+PDV.exe: 000049C8: 14:16:22 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000049C8: 14:16:22 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000049C8: 14:16:22 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000049C8: 14:16:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000049C8: 14:16:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003EA8: 14:16:26 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ZeOt7oeVRY110E4387C ) : Addr: $00C93CC9
+PDV.exe: 000035A0: 14:17:21 []:>--------------------------------------------------------------<
+PDV.exe: 000035A0: 14:17:21 [TUniServerModule]:Server First Init.
+PDV.exe: 000035A0: 14:17:21 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000035A0: 14:17:21 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000035A0: 14:17:21 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000035A0: 14:17:21 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000035A0: 14:17:21 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004100: 14:18:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yVNHDpIvPQ110E438B3 ) : Addr: $00993CC9
+PDV.exe: 000015EC: 14:19:59 []:>--------------------------------------------------------------<
+PDV.exe: 000015EC: 14:19:59 [TUniServerModule]:Server First Init.
+PDV.exe: 000015EC: 14:19:59 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000015EC: 14:19:59 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000015EC: 14:19:59 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000015EC: 14:19:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000015EC: 14:20:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 0000402C: 14:20:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7yEpDjejIs110E4393F ) : Addr: $00F63CC9
+PDV.exe: 00004394: 14:33:30 []:>--------------------------------------------------------------<
+PDV.exe: 00004394: 14:33:30 [TUniServerModule]:Server First Init.
+PDV.exe: 00004394: 14:33:30 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004394: 14:33:30 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004394: 14:33:30 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004394: 14:33:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004394: 14:33:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003118: 14:34:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Is6c7Xgoty110E439CC ) : Addr: $003F3CC9
+PDV.exe: 000044F0: 14:34:34 []:>--------------------------------------------------------------<
+PDV.exe: 000044F0: 14:34:34 [TUniServerModule]:Server First Init.
+PDV.exe: 000044F0: 14:34:34 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000044F0: 14:34:34 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000044F0: 14:34:34 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000044F0: 14:34:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000044F0: 14:34:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000048D0: 14:34:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: cqm3c3utCj110E43D81 ) : Addr: $00D23CC9
+PDV.exe: 000024B4: 14:36:08 []:>--------------------------------------------------------------<
+PDV.exe: 000024B4: 14:36:08 [TUniServerModule]:Server First Init.
+PDV.exe: 000024B4: 14:36:08 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000024B4: 14:36:08 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000024B4: 14:36:08 [TUniGUISessionManager]:Cache erase job created, Folder count: [2]
+PDV.exe: 000024B4: 14:36:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000024B4: 14:36:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004BC0: 14:37:16 []:>--------------------------------------------------------------<
+PDV.exe: 00004BC0: 14:37:16 [TUniServerModule]:Server First Init.
+PDV.exe: 00004BC0: 14:37:16 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004BC0: 14:37:16 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004BC0: 14:37:16 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004BC0: 14:37:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004BC0: 14:37:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003D24: 14:37:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QTFnzHAAKL110E43E18 ) : Addr: $008C3CC9
+PDV.exe: 000043FC: 14:40:59 []:>--------------------------------------------------------------<
+PDV.exe: 000043FC: 14:40:59 [TUniServerModule]:Server First Init.
+PDV.exe: 000043FC: 14:40:59 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000043FC: 14:40:59 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000043FC: 14:40:59 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000043FC: 14:41:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000043FC: 14:41:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000043EC: 14:41:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: VevoYlzpcg110E43E6C ) : Addr: $00543CC9
+PDV.exe: 00004AA8: 14:43:06 []:>--------------------------------------------------------------<
+PDV.exe: 00004AA8: 14:43:06 [TUniServerModule]:Server First Init.
+PDV.exe: 00004AA8: 14:43:06 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004AA8: 14:43:06 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004AA8: 14:43:06 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004AA8: 14:43:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004AA8: 14:43:06 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004C54: 14:43:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: UxfsRlO4GU110E43F71 ) : Addr: $00973CC9
+PDV.exe: 00004A7C: 14:45:00 []:>--------------------------------------------------------------<
+PDV.exe: 00004A7C: 14:45:00 [TUniServerModule]:Server First Init.
+PDV.exe: 00004A7C: 14:45:00 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004A7C: 14:45:00 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004A7C: 14:45:00 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004A7C: 14:45:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004A7C: 14:45:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000042F0: 14:45:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: vEBAEfzfm8110E44001 ) : Addr: $00883CC9
+PDV.exe: 00004F5C: 14:45:21 [HandleFileRequest[127.0.0.1]]:Access denied: D:\Fontes\PDV\Win32\Debug\js\bootstrap.js.map.
+PDV.exe: 000009E4: 14:45:21 [HandleFileRequest[127.0.0.1]]:Access denied: D:\Fontes\PDV\Win32\Debug\css\bootstrap.css.map.
+PDV.exe: 00003218: 14:45:36 []:>--------------------------------------------------------------<
+PDV.exe: 00003218: 14:45:36 [TUniServerModule]:Server First Init.
+PDV.exe: 00003218: 14:45:36 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00003218: 14:45:36 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00003218: 14:45:36 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00003218: 14:45:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00003218: 14:45:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004A58: 14:45:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9Y4qwUuhGj110E44084 ) : Addr: $00883CC9
+PDV.exe: 00000F4C: 14:46:09 []:>--------------------------------------------------------------<
+PDV.exe: 00000F4C: 14:46:09 [TUniServerModule]:Server First Init.
+PDV.exe: 00000F4C: 14:46:09 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00000F4C: 14:46:09 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00000F4C: 14:46:09 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00000F4C: 14:46:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00000F4C: 14:46:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004EA8: 14:46:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: cxZPKaOYMh110E440A7 ) : Addr: $003E3CC9
+PDV.exe: 00002920: 14:47:58 []:>--------------------------------------------------------------<
+PDV.exe: 00002920: 14:47:58 [TUniServerModule]:Server First Init.
+PDV.exe: 00002920: 14:47:58 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00002920: 14:47:58 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00002920: 14:47:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00002920: 14:47:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00002920: 14:47:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004D3C: 14:48:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: x8XTdGBZ8i110E440C9 ) : Addr: $00773CC9
+PDV.exe: 00004520: 15:01:15 []:>--------------------------------------------------------------<
+PDV.exe: 00004520: 15:01:15 [TUniServerModule]:Server First Init.
+PDV.exe: 00004520: 15:01:15 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004520: 15:01:15 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004520: 15:01:15 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004520: 15:01:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004520: 15:01:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000028D0: 15:01:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: N3ieJvxmPv110E44143 ) : Addr: $003C975D
+PDV.exe: 00003E58: 15:02:34 []:>--------------------------------------------------------------<
+PDV.exe: 00003E58: 15:02:34 [TUniServerModule]:Server First Init.
+PDV.exe: 00003E58: 15:02:34 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00003E58: 15:02:34 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00003E58: 15:02:34 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00003E58: 15:02:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00003E58: 15:02:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00001170: 15:03:16 []:>--------------------------------------------------------------<
+PDV.exe: 00001170: 15:03:16 [TUniServerModule]:Server First Init.
+PDV.exe: 00001170: 15:03:16 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00001170: 15:03:16 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00001170: 15:03:16 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00001170: 15:03:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00001170: 15:03:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 0000384C: 15:03:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: qlmhxJv8l5110E4453D ) : Addr: $00D3975D
+PDV.exe: 00004F40: 15:03:56 []:>--------------------------------------------------------------<
+PDV.exe: 00004F40: 15:03:56 [TUniServerModule]:Server First Init.
+PDV.exe: 00004F40: 15:03:56 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004F40: 15:03:56 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004F40: 15:03:56 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004F40: 15:03:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004F40: 15:03:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004C7C: 15:04:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NZSjYPGKbA110E44568 ) : Addr: $00D3975D
+PDV.exe: 000009E4: 15:05:20 []:>--------------------------------------------------------------<
+PDV.exe: 000009E4: 15:05:20 [TUniServerModule]:Server First Init.
+PDV.exe: 000009E4: 15:05:21 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000009E4: 15:05:21 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000009E4: 15:05:21 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000009E4: 15:05:21 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000009E4: 15:05:21 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004DEC: 15:05:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: S6Yz72MlK1110E4459C ) : Addr: $00B5975D
+PDV.exe: 0000144C: 15:07:19 []:>--------------------------------------------------------------<
+PDV.exe: 0000144C: 15:07:19 [TUniServerModule]:Server First Init.
+PDV.exe: 0000144C: 15:07:19 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 0000144C: 15:07:19 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 0000144C: 15:07:19 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 0000144C: 15:07:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 0000144C: 15:07:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003818: 15:07:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Vibyc14Xim110E445FA ) : Addr: $009B975D
+PDV.exe: 00000568: 15:08:03 [HandleFileRequest[127.0.0.1]]:Access denied: D:\Fontes\PDV\Win32\Debug\js\bootstrap.js.map.
+PDV.exe: 00002824: 15:08:03 [HandleFileRequest[127.0.0.1]]:Access denied: D:\Fontes\PDV\Win32\Debug\css\bootstrap.css.map.
+PDV.exe: 00004360: 15:09:34 []:>--------------------------------------------------------------<
+PDV.exe: 00004360: 15:09:34 [TUniServerModule]:Server First Init.
+PDV.exe: 00004360: 15:09:34 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004360: 15:09:34 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004360: 15:09:34 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004360: 15:09:35 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004360: 15:09:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00001E74: 15:10:06 [127.0.0.1]:EInvalidOperation : Control 'FrLogin' has no parent window. Path:
+TUniGUIApplication($03CD0A10)
+  .MainForm
+  ^FrLogin : Addr: $010E6FE0
+PDV.exe: 00004E18: 15:10:48 []:>--------------------------------------------------------------<
+PDV.exe: 00004E18: 15:10:48 [TUniServerModule]:Server First Init.
+PDV.exe: 00004E18: 15:10:48 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004E18: 15:10:48 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004E18: 15:10:48 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004E18: 15:10:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004E18: 15:10:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 0000150C: 15:18:45 []:>--------------------------------------------------------------<
+PDV.exe: 0000150C: 15:18:45 [TUniServerModule]:Server First Init.
+PDV.exe: 0000150C: 15:18:45 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 0000150C: 15:18:45 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 0000150C: 15:18:45 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 0000150C: 15:18:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 0000150C: 15:18:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 0000498C: 15:19:01 [Control 'FrLogin' has no parent window. Path:
+TUniGUIApplication($03C80A10)
+  .MainForm
+  ^FrLogin-127.0.0.1]:EInvalidOperation : Control 'FrLogin' has no parent window. Path:
+TUniGUIApplication($03C80A10)
+  .MainForm
+  ^FrLogin : Addr: $00186FE0
+PDV.exe: 00003124: 15:19:50 []:>--------------------------------------------------------------<
+PDV.exe: 00003124: 15:19:50 [TUniServerModule]:Server First Init.
+PDV.exe: 00003124: 15:19:50 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00003124: 15:19:50 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00003124: 15:19:50 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00003124: 15:19:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00003124: 15:19:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000049AC: 15:19:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: XA7JI4cNyG110E4499E ) : Addr: $00C8975D
+PDV.exe: 00004B7C: 15:19:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: XA7JI4cNyG110E4499E ) : Addr: $00C8975D
+PDV.exe: 00000A74: 15:20:27 [HandleFileRequest[127.0.0.1]]:File not found: D:\Fontes\PDV\Win32\Debug\favicon.ico
+PDV.exe: 0000398C: 15:22:22 []:>--------------------------------------------------------------<
+PDV.exe: 0000398C: 15:22:22 [TUniServerModule]:Server First Init.
+PDV.exe: 0000398C: 15:22:22 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 0000398C: 15:22:22 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 0000398C: 15:22:22 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 0000398C: 15:22:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 0000398C: 15:22:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000014BC: 15:23:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Rug9DbzrOi110E44A14 ) : Addr: $011E975D
+PDV.exe: 00001478: 15:27:16 []:>--------------------------------------------------------------<
+PDV.exe: 00001478: 15:27:16 [TUniServerModule]:Server First Init.
+PDV.exe: 00001478: 15:27:16 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00001478: 15:27:16 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00001478: 15:27:16 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00001478: 15:27:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00001478: 15:27:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004E4C: 15:27:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1pd6Ze3Y2H110E44B06 ) : Addr: $009E975D
+PDV.exe: 00003BAC: 15:28:04 []:>--------------------------------------------------------------<
+PDV.exe: 00003BAC: 15:28:04 [TUniServerModule]:Server First Init.
+PDV.exe: 00003BAC: 15:28:04 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00003BAC: 15:28:04 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00003BAC: 15:28:04 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00003BAC: 15:28:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00003BAC: 15:28:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00001994: 15:28:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: b8flXrGkwH110E44C09 ) : Addr: $009E975D
+PDV.exe: 00004B24: 15:30:02 []:>--------------------------------------------------------------<
+PDV.exe: 00004B24: 15:30:02 [TUniServerModule]:Server First Init.
+PDV.exe: 00004B24: 15:30:02 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004B24: 15:30:02 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004B24: 15:30:02 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004B24: 15:30:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004B24: 15:30:03 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003F44: 15:30:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ZFBLMQhD68110E44C2D ) : Addr: $012D975D
+PDV.exe: 000013D0: 15:31:15 []:>--------------------------------------------------------------<
+PDV.exe: 000013D0: 15:31:15 [TUniServerModule]:Server First Init.
+PDV.exe: 000013D0: 15:31:15 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000013D0: 15:31:15 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000013D0: 15:31:15 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000013D0: 15:31:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000013D0: 15:31:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003EA8: 15:31:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: UNMj5aWTnR110E44CC7 ) : Addr: $0057975D
+PDV.exe: 00004CEC: 15:32:14 []:>--------------------------------------------------------------<
+PDV.exe: 00004CEC: 15:32:14 [TUniServerModule]:Server First Init.
+PDV.exe: 00004CEC: 15:32:15 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004CEC: 15:32:15 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004CEC: 15:32:15 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004CEC: 15:32:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004CEC: 15:32:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000012B4: 15:33:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: bBvtk7v3Of110E44D07 ) : Addr: $004B975D
+PDV.exe: 000044A8: 15:33:42 []:>--------------------------------------------------------------<
+PDV.exe: 000044A8: 15:33:42 [TUniServerModule]:Server First Init.
+PDV.exe: 000044A8: 15:33:42 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000044A8: 15:33:42 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000044A8: 15:33:42 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000044A8: 15:33:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000044A8: 15:33:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 0000479C: 15:33:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: UiC9drHa91110E44D83 ) : Addr: $00E1975D
+PDV.exe: 0000346C: 15:34:50 []:>--------------------------------------------------------------<
+PDV.exe: 0000346C: 15:34:50 [TUniServerModule]:Server First Init.
+PDV.exe: 0000346C: 15:34:50 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 0000346C: 15:34:50 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 0000346C: 15:34:50 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 0000346C: 15:34:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 0000346C: 15:34:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000041E0: 15:34:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: qME54HAMkk110E44DAF ) : Addr: $0061975D
+PDV.exe: 00004520: 15:37:04 []:>--------------------------------------------------------------<
+PDV.exe: 00004520: 15:37:04 [TUniServerModule]:Server First Init.
+PDV.exe: 00004520: 15:37:04 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004520: 15:37:04 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004520: 15:37:04 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004520: 15:37:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004520: 15:37:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00000D00: 15:37:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1dJDFHFCB6110E44DF9 ) : Addr: $0092975D
+PDV.exe: 0000459C: 15:37:44 []:>--------------------------------------------------------------<
+PDV.exe: 0000459C: 15:37:44 [TUniServerModule]:Server First Init.
+PDV.exe: 0000459C: 15:37:44 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 0000459C: 15:37:44 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 0000459C: 15:37:44 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 0000459C: 15:37:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 0000459C: 15:37:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004B68: 15:38:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: WFUWhRBWK3110E44EA0 ) : Addr: $00A1975D
+PDV.exe: 00000128: 15:38:45 []:>--------------------------------------------------------------<
+PDV.exe: 00000128: 15:38:45 [TUniServerModule]:Server First Init.
+PDV.exe: 00000128: 15:38:45 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00000128: 15:38:45 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00000128: 15:38:45 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00000128: 15:38:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00000128: 15:38:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004C70: 15:39:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: LQImsrqxlL110E44EE4 ) : Addr: $0130975D
+PDV.exe: 00000888: 15:39:35 []:>--------------------------------------------------------------<
+PDV.exe: 00000888: 15:39:35 [TUniServerModule]:Server First Init.
+PDV.exe: 00000888: 15:39:35 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00000888: 15:39:35 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00000888: 15:39:35 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00000888: 15:39:35 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00000888: 15:39:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000048DC: 15:39:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: gd7b6OlrIX110E44F19 ) : Addr: $0137975D
+PDV.exe: 00000240: 15:39:57 [127.0.0.1]:EComponentError : A component named FrLogin already exists : Addr: $010ADDCA
+PDV.exe: 00004C3C: 15:45:20 []:>--------------------------------------------------------------<
+PDV.exe: 00004C3C: 15:45:20 [TUniServerModule]:Server First Init.
+PDV.exe: 00004C3C: 15:45:20 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004C3C: 15:45:20 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004C3C: 15:45:20 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004C3C: 15:45:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004C3C: 15:45:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 0000022C: 15:45:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 4TQYr9aIwB110E44F4C ) : Addr: $00CF3CC9
+PDV.exe: 00000234: 15:47:08 []:>--------------------------------------------------------------<
+PDV.exe: 00000234: 15:47:08 [TUniServerModule]:Server First Init.
+PDV.exe: 00000234: 15:47:08 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00000234: 15:47:08 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00000234: 15:47:08 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00000234: 15:47:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00000234: 15:47:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003AD0: 15:47:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ae1z62LwyC110E450E1 ) : Addr: $006D3CC9
+PDV.exe: 00000974: 15:48:14 []:>--------------------------------------------------------------<
+PDV.exe: 00000974: 15:48:14 [TUniServerModule]:Server First Init.
+PDV.exe: 00000974: 15:48:14 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00000974: 15:48:14 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00000974: 15:48:14 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00000974: 15:48:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00000974: 15:48:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00001B5C: 15:48:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: G9BGP3zwXq110E4515A ) : Addr: $01113CC9
+PDV.exe: 00004990: 15:49:23 []:>--------------------------------------------------------------<
+PDV.exe: 00004990: 15:49:23 [TUniServerModule]:Server First Init.
+PDV.exe: 00004990: 15:49:23 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004990: 15:49:23 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004990: 15:49:23 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004990: 15:49:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004990: 15:49:24 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000013CC: 15:49:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wMtB6NQZXt110E451AE ) : Addr: $007C3CC9
+PDV.exe: 000010E0: 15:53:04 []:>--------------------------------------------------------------<
+PDV.exe: 000010E0: 15:53:04 [TUniServerModule]:Server First Init.
+PDV.exe: 000010E0: 15:53:04 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000010E0: 15:53:04 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000010E0: 15:53:04 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000010E0: 15:53:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000010E0: 15:53:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00002144: 15:53:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1L6phvS9rg110E45202 ) : Addr: $00DE3CC9
+PDV.exe: 000005D0: 15:53:57 []:>--------------------------------------------------------------<
+PDV.exe: 000005D0: 15:53:57 [TUniServerModule]:Server First Init.
+PDV.exe: 000005D0: 15:53:57 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000005D0: 15:53:57 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000005D0: 15:53:57 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000005D0: 15:53:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000005D0: 15:53:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00002DD4: 15:54:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 3TXvZfOfaj110E452F1 ) : Addr: $00713CC9
+PDV.exe: 00000B44: 15:56:14 []:>--------------------------------------------------------------<
+PDV.exe: 00000B44: 15:56:14 [TUniServerModule]:Server First Init.
+PDV.exe: 00000B44: 15:56:14 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00000B44: 15:56:14 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00000B44: 15:56:14 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00000B44: 15:56:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00000B44: 15:56:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003EF8: 15:56:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: f6iCbeiEvG110E4532E ) : Addr: $00643CC9
+PDV.exe: 00003AD0: 15:56:56 []:>--------------------------------------------------------------<
+PDV.exe: 00003AD0: 15:56:56 [TUniServerModule]:Server First Init.
+PDV.exe: 00003AD0: 15:56:56 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00003AD0: 15:56:56 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00003AD0: 15:56:56 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00003AD0: 15:56:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00003AD0: 15:56:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004CDC: 15:57:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: gzynTnG6DP110E453DF ) : Addr: $00503CC9
+PDV.exe: 000045C4: 15:57:36 []:>--------------------------------------------------------------<
+PDV.exe: 000045C4: 15:57:36 [TUniServerModule]:Server First Init.
+PDV.exe: 000045C4: 15:57:36 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 000045C4: 15:57:36 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 000045C4: 15:57:36 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 000045C4: 15:57:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 000045C4: 15:57:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003AAC: 15:58:07 []:>--------------------------------------------------------------<
+PDV.exe: 00003AAC: 15:58:07 [TUniServerModule]:Server First Init.
+PDV.exe: 00003AAC: 15:58:07 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00003AAC: 15:58:07 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00003AAC: 15:58:07 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00003AAC: 15:58:07 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00003AAC: 15:58:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00004838: 15:58:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SnJm9TxPYH110E45427 ) : Addr: $00E53CC9
+PDV.exe: 00000D1C: 15:58:52 []:>--------------------------------------------------------------<
+PDV.exe: 00000D1C: 15:58:52 [TUniServerModule]:Server First Init.
+PDV.exe: 00000D1C: 15:58:52 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00000D1C: 15:58:52 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00000D1C: 15:58:52 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00000D1C: 15:58:52 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00000D1C: 15:58:53 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000042F0: 15:59:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ZEkfsKQe2u110E45452 ) : Addr: $00903CC9
+PDV.exe: 00003854: 16:00:22 []:>--------------------------------------------------------------<
+PDV.exe: 00003854: 16:00:22 [TUniServerModule]:Server First Init.
+PDV.exe: 00003854: 16:00:22 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00003854: 16:00:22 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00003854: 16:00:23 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00003854: 16:00:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00003854: 16:00:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 0000489C: 16:00:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 2gV8NDejsO110E4548A ) : Addr: $005C3CC9
+PDV.exe: 00004E1C: 16:02:26 []:>--------------------------------------------------------------<
+PDV.exe: 00004E1C: 16:02:26 [TUniServerModule]:Server First Init.
+PDV.exe: 00004E1C: 16:02:26 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004E1C: 16:02:26 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004E1C: 16:02:27 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004E1C: 16:02:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004E1C: 16:02:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003408: 16:02:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 4bkEYFRPtZ110E454EF ) : Addr: $00893CC9
+PDV.exe: 000039B0: 16:05:26 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: iQSevkhDt3110E4557E ) : Addr: $00893CC9
+PDV.exe: 00003158: 16:08:52 []:>--------------------------------------------------------------<
+PDV.exe: 00003158: 16:08:52 [TUniServerModule]:Server First Init.
+PDV.exe: 00003158: 16:08:52 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00003158: 16:08:52 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00003158: 16:08:52 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00003158: 16:08:53 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00003158: 16:08:53 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 000007D0: 16:08:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: LE6JQi3PlK110E45631 ) : Addr: $00AC3CC9
+PDV.exe: 00000BFC: 16:11:14 []:>--------------------------------------------------------------<
+PDV.exe: 00000BFC: 16:11:14 [TUniServerModule]:Server First Init.
+PDV.exe: 00000BFC: 16:11:14 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00000BFC: 16:11:14 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00000BFC: 16:11:14 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00000BFC: 16:11:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00000BFC: 16:11:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00000FD8: 16:11:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ICpgqhQXqO110E45736 ) : Addr: $01133CC9
+PDV.exe: 00004AF8: 16:13:49 []:>--------------------------------------------------------------<
+PDV.exe: 00004AF8: 16:13:49 [TUniServerModule]:Server First Init.
+PDV.exe: 00004AF8: 16:13:49 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004AF8: 16:13:49 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004AF8: 16:13:49 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004AF8: 16:13:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004AF8: 16:13:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003408: 16:14:02 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1tgCeFFKJz110E457E6 ) : Addr: $00BC3CC9
+PDV.exe: 00004578: 16:15:36 []:>--------------------------------------------------------------<
+PDV.exe: 00004578: 16:15:36 [TUniServerModule]:Server First Init.
+PDV.exe: 00004578: 16:15:36 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00004578: 16:15:36 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00004578: 16:15:36 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00004578: 16:15:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00004578: 16:15:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003688: 16:16:36 []:>--------------------------------------------------------------<
+PDV.exe: 00003688: 16:16:36 [TUniServerModule]:Server First Init.
+PDV.exe: 00003688: 16:16:36 [TUniServerModule]:Start Path = D:\Fontes\PDV\Win32\Debug\
+PDV.exe: 00003688: 16:16:36 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00003688: 16:16:36 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00003688: 16:16:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00003688: 16:16:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003E6C: 16:28:57 []:>--------------------------------------------------------------<
+PDV.exe: 00003E6C: 16:28:58 [TUniServerModule]:Server First Init.
+PDV.exe: 00003E6C: 16:28:58 [TUniServerModule]:Start Path = D:\Fontes\componenetes\DinosStyle\Sample\LoginSample\Win32\Debug\
+PDV.exe: 00003E6C: 16:28:58 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 00003E6C: 16:28:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+PDV.exe: 00003E6C: 16:28:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 00003E6C: 16:28:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00003814: 16:29:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SfbE1xsdea110E4594E ) : Addr: $00D73CC9
+PDV.exe: 0000161C: 16:42:30 []:>--------------------------------------------------------------<
+PDV.exe: 0000161C: 16:42:30 [TUniServerModule]:Server First Init.
+PDV.exe: 0000161C: 16:42:30 [TUniServerModule]:Start Path = D:\Fontes\componenetes\DinosStyle\Sample\LoginSample\Win32\Debug\
+PDV.exe: 0000161C: 16:42:30 [TUniServerModule]:Debug Mode = ON
+PDV.exe: 0000161C: 16:42:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+PDV.exe: 0000161C: 16:42:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+PDV.exe: 00000ED8: 16:42:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 96RKFgyENs110E4601A ) : Addr: $00893CC9
