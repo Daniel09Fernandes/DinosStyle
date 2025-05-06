@@ -37,10 +37,13 @@ uses
   uniPanel, System.Classes;
 
 type
+  TTransparence = (tDark, tLigth);
+
   TDinosConverterPanel = class helper for TUniCustomPanel
    private
    public
       procedure ConvertToBootstrap(ARounded: Boolean = False);
+      procedure Transparence(ATypeTransparece: TTransparence = tDark; ANivel: Double = 0.5);
    end;
 implementation
 
@@ -68,4 +71,15 @@ begin
       '  } ' +
       '}';
 end;
+procedure TDinosConverterPanel.Transparence(ATypeTransparece: TTransparence; ANivel: Double);
+begin
+  if ANivel > 1 then
+    ANivel := 1;
+
+  case ATypeTransparece of
+    tDark: self.JSInterface.JSConfig('bodyStyle', ['background-color:rgba(38, 38, 38, '+ANivel.ToString.Replace(',','.')+')']);
+    tLigth: self.JSInterface.JSConfig('bodyStyle', ['background-color:rgba(255, 255, 255, '+ANivel.ToString.Replace(',','.')+')']);
+  end;
+end;
+
 end.
