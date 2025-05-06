@@ -2,6 +2,9 @@
 DinosStyle - Unigui
 ![image](https://github.com/user-attachments/assets/739cf197-ed53-4b1c-a7f9-c9cfedab8867)
 
+![image](https://github.com/user-attachments/assets/2ed43e3f-2ff9-4d8a-ac9d-399945416dc6)
+
+
 
 Como utilizar: 
   - Incluir na raiz do seu projeto, jutno ao exe ou a dll, as pastas css e js que estão dentro da pasta assets.
